@@ -1,4 +1,4 @@
-# run-buddy
+# run-buddy ent
 
 ## purpose 
 A website that offers fitness training services.
